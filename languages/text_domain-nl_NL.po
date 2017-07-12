@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cubilis-fastbooker-plugin\n"
+"POT-Creation-Date: 2016-01-11 13:33+0100\n"
+"PO-Revision-Date: 2016-01-11 14:42+0100\n"
+"Last-Translator: Kengy Van Hijfte <kengy@stardekk.be>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../index.php:47
+msgid "You do not have sufficient permissions to view this page."
+msgstr "U hebt niet de voldoende rechten om deze pagina te bekijken."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:10
+msgid "dutch"
+msgstr "Nederlands"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:11
+msgid "french"
+msgstr "Frans"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:12
+msgid "english"
+msgstr "Engels"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:13
+msgid "deutsch"
+msgstr "Duits"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:20
+msgid "iframe"
+msgstr "iframe integratie"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:21
+msgid "fullscreen"
+msgstr "fullscreen integratie"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:80
+msgid "Your changes have been saved."
+msgstr "Uw instellingen zijn opgeslagen"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:118
+msgid "Cubilis Fastbooker Settings"
+msgstr "Cubilis Fastbooker Instellingen"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:122
+msgid ""
+"Please enter the Cubilis settings correct. If you need any help. You can "
+"always contact us on the <a href=\"http://stardekk.com/en/online-support-1\" "
+"alt=\"helpdesk\" title=\"helpdesk\" target=\"_blank\">help desk</a>"
+msgstr ""
+"Gelieve de cubilis instellingen correct in te voeren. Als u hulp nodig hebt "
+"kan u ons steeds contacteren op de <a href=\"https://www.stardekk.com/nl/"
+"online-support\" alt=\"helpdesk\" title=\"helpdesk\" target=\"_blank\">help "
+"desk</a>"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:125
+msgid ""
+"<a href=\"http://www.stardekk.be/en\" target=\"_blank\">Stardekk</a> can "
+"secure your PC remotely, So we can help over the phone and via your own pc "
+"screen."
+msgstr ""
+"<a href=\"http://www.stardekk.com/nl\" target=\"_blank\">Stardekk</a> kan op "
+"een veilige manier verbinding maken met uw pc, om zo u vlot te kunnen helpen "
+"met de instellingen."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:128
+msgid ""
+"Important! Please make an appointment with an employee via +32 (0) "
+"50/38.38.68 before you start a session."
+msgstr ""
+"Belangrijk ! Maak eerst een afspraak met een medewerker via +32 (0) "
+"50/38.38.68 alvorens een sessie te starten."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:137
+msgid "General"
+msgstr "Algemeen"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:141
+msgid "Fastbooker integration: "
+msgstr "Fastbooker integratie"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:153
+msgid "Logies ID: "
+msgstr "Logies ID:"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:155
+msgid " ex: 270, This is the identifier of your fastbooker iframe integration."
+msgstr ""
+"Dit is de unieke identiteit voor de logies van het hotel (iframe-"
+"integratie). Bent u niet in bezit van dit nummer, contacteer dan <a href="
+"\"mailto:support@stardekk.com\">support@stardekk.com</a>."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:158
+msgid "Booker perma link: "
+msgstr "Boeker url koppeling"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:160
+msgid ""
+" ex: stardekk-development-sint-kruis in https://reservations.cubilis.eu/"
+"stardekk-development-sint-kruis. This is the identifier of your fastbooker "
+"fullscreen integration."
+msgstr ""
+" Dit is de id van uw fastbooker fullscreen integratie. Bent u niet in bezit "
+"van deze identiteit, contacteer dan <a href=\"mailto:support@stardekk.com"
+"\">support@stardekk.com</a>."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:163
+msgid "Default Language: "
+msgstr "Standaard taal"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:177
+msgid "Features"
+msgstr "Toepassingen"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:182
+msgid "General availability?"
+msgstr "Algemene beschikbaarheid?"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:184
+msgid ""
+"The link to the general availability will be shown if you check this box."
+msgstr ""
+"De link naar de algemene beschikbaarheid  zal getoond worden als dit vinkje "
+"is aangevinkt."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:187
+msgid "Discount?"
+msgstr "Discount?"
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:189
+msgid "The text field of the discount will be shown if your check this box."
+msgstr "Als je dit vinkje aanvinkt dan wordt het discountveld zichtbaar."
+
+#: ../admin/cubilis_fastbooker_settings_admin.php:197
+msgid "Save changes"
+msgstr "Opslaan"
+
+#: ../widget/cubilis_fastbooker_widget.php:17
+msgid "Cubilis Fastbooker Widget"
+msgstr "Cubilis Fastbooker Widget"
+
+#: ../widget/cubilis_fastbooker_widget.php:18
+msgid "Cubilis Fastbooker Integration"
+msgstr "Cubilis Fastbooker integratie"
+
+#: ../widget/cubilis_fastbooker_widget.php:60
+msgid "Font Color:"
+msgstr "Tekstkleur"
+
+#: ../widget/cubilis_fastbooker_widget.php:64
+msgid "Button Font Color:"
+msgstr "Knoptekstkleur"
+
+#: ../widget/cubilis_fastbooker_widget.php:68
+msgid "Button Background Color:"
+msgstr "Knopachtergrondkleur"
+
+#: ../widget/cubilis_fastbooker_widget.php:72
+msgid "Button hover Color:"
+msgstr "Knop hover kleur"
+
+#: ../widget/cubilis_fastbooker_widget.php:168
+msgid "Reservation"
+msgstr "Reservatie"
+
+#: ../widget/cubilis_fastbooker_widget.php:174
+msgid "General Availability"
+msgstr "Algemene beschikbaarheid"
+
+#: ../widget/cubilis_fastbooker_widget.php:183
+msgid "Arrival"
+msgstr "Aankomst"
+
+#: ../widget/cubilis_fastbooker_widget.php:191
+msgid "Departure"
+msgstr "Vertrek"
+
+#: ../widget/cubilis_fastbooker_widget.php:199
+msgid "Discount"
+msgstr "Discount"
+
+#: ../widget/cubilis_fastbooker_widget.php:211
+msgid "Check availability"
+msgstr "Controleer beschikbaarheid"
+
+#: ../widget/cubilis_fastbooker_widget.php:219
+msgid "Secure booking system!"
+msgstr "Beveiligde boekingsmodule!"
+
+#: ../widget/cubilis_fastbooker_widget.php:221
+msgid "Best rate guaranteed!"
+msgstr "Beste tarief gegarandeerd!"
+
+#~ msgid " ex: nl => Dutch, fr => French, en => English"
+#~ msgstr " vb: nl => Nederlands, fr => Frans, en => Engels..."

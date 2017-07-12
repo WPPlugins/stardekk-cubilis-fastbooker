@@ -1,0 +1,75 @@
+/**
+ * Cubilis Fastbooker Css
+ * Author Stardekk
+ */
+.cubilis-fastbooker-div .fastbooker-title {
+	font-size: 120%;
+}
+
+.cubilis-fastbooker-div .fastbooker-form-widget .lbl
+{
+	display: block;
+}
+
+.cubilis-fastbooker-div  .fastbooker-form-widget .input-text
+{
+	width: 96%;
+	line-height:40px;
+	padding:0px;
+	margin:0px;
+	float: left;
+	padding-left:3%;
+	border:1px solid #ccc;
+	height: 40px;
+}
+
+.cubilis-fastbooker-div  .fastbooker-form-widget .btnCheckAvail {
+	display: block;
+    font-size: 105%;
+    text-transform: uppercase;
+	width: 100%;
+	margin-top: 15px;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	border:1px solid #ccc;
+	background:#000;
+}
+
+.cubilis-fastbooker-div  .fastbooker-form-widget .btnCheckAvail:hover {
+    background: #111;
+	webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.cubilis-fastbooker-div  .fastbooker-form-widget .ui-datepicker-trigger {
+	margin-left: -26px;
+    margin-top: 13px;
+	display: inline !important;
+}
+
+.ui-datepicker {
+	z-index: 999999 !important;
+}
+
+.cubilis-secure-box {
+	margin-top: 10px;
+}
+
+.cubilis-secure-box-icon {
+    margin-right: 5px;
+}
+
+.fancybox-cubilis {
+	display: block;
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+
